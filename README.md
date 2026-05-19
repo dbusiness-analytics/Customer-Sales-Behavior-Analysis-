@@ -2,7 +2,6 @@
 
 A data analytics project focused on understanding customer spending patterns, purchasing behavior, and sales performance to support strategic business decisions.
 
----
 
 ## 📌 Project Objective
 
@@ -13,22 +12,24 @@ The goal of this project is to analyze customer and sales data in order to:
 - Analyze seasonal and regional sales trends  
 - Provide actionable business recommendations  
 
----
-
 ## 📊 Dashboard Preview
 
 ### Dashboard View 1
-![Dashboard 1](Customer Sales & Behavior Analysis Dashboard.png.jpeg)
+![Dashboard 1](Customer-Sales-1.png)
 
 ### Dashboard View 2
-![Dashboard 2](CsAnalytics2)
+![Dashboard 2](Customer-Sales-2.png)
 
 > Built using Power BI to visualize customer insights, sales performance, and business trends.
+
+---
 
 ## 🛠 Tools Used
 - Power BI (Data Visualization & Dashboard Design)  
 - SQL (Data Analysis & Querying)  
 - Excel (Data Cleaning & Preparation)  
+
+---
 
 ## 📈 Business Insights
 
@@ -59,7 +60,7 @@ Customer distribution:
 ### 4. Seasonal Sales Peak in Fall
 - Highest revenue recorded in **Fall**
 - Spring and Winter followed closely  
-- **Summer recorded the lowest sales**
+- Summer recorded the lowest sales  
 
 👉 Customer spending increases significantly during Fall season.
 
@@ -87,6 +88,7 @@ Customers using:
 
 👉 Tend to spend more than standard shipping users.
 
+
 ### 9. Top Performing States
 Highest purchasing activity came from:
 - Montana  
@@ -105,15 +107,10 @@ Highest purchasing activity came from:
 - Encourage **Express and 2-Day Shipping** options  
 - Develop **location-based campaigns** for top states (Montana & California)  
 
----
-
 ## 🚀 Key Learning Outcomes
 
 - Built a complete end-to-end Power BI dashboard project  
 - Applied SQL for data extraction and insight generation  
 - Performed customer segmentation and behavioral analysis  
 - Translated raw data into actionable business insights  
-- Strengthened portfolio readiness for data analyst roles  
-
-**Focus Area:** Economics | Data Analytics  
-**Skills:** SQL | Power BI | Excel | Business Intelligence
+- Strengthened portfolio readiness for data analyst roles
