@@ -18,10 +18,10 @@ The goal of this project is to analyze customer and sales data in order to:
 ## 📊 Dashboard Preview
 
 ### Dashboard View 1
-![Dashboard 1](Customer Sales & Behavior Analysis Dashboard.png)
+![Dashboard 1](CsAnalytics)
 
 ### Dashboard View 2
-![Dashboard 2](Customer Sales & Behavior Analysis Dashboard.png2)
+![Dashboard 2](CsAnalytics2)
 
 > Built using Power BI to visualize customer insights, sales performance, and business trends.
 
