@@ -26,7 +26,6 @@ The goal of this project is to analyze customer and sales data in order to:
 
 ## 🛠 Tools Used
 - Power BI (Data Visualization & Dashboard Design)  
-- SQL (Data Analysis & Querying)  
 - Excel (Data Cleaning & Preparation)  
 
 ---
