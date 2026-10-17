@@ -2,18 +2,20 @@
 
 ## Project Overview
 
-This project analyzes customer purchasing behavior, sales performance, and spending patterns to identify business insights that can support strategic decision-making. Using Power BI and Microsoft Excel, the analysis explores customer demographics, product category performance, seasonal trends, payment preferences, shipping methods, and geographic purchasing activity.
+This project explores customer purchasing behavior and sales performance to understand what customers buy, how much they spend, and which patterns stand out in the data.
 
-The objective is to transform sales data into meaningful insights and practical recommendations that can help improve customer understanding and business performance.
+Using Power BI and Microsoft Excel, I analyzed customer demographics, product categories, seasonal sales, payment preferences, shipping methods, and purchasing activity across different states.
+
+The aim was to turn the data into useful business insights that could help guide marketing, customer retention, inventory planning, and sales decisions.
 
 ## Project Objectives
 
-- Evaluate overall revenue and customer purchasing activity.
-- Analyze customer demographics and spending patterns.
-- Identify top-performing product categories.
-- Examine seasonal and regional sales trends.
+- Evaluate overall revenue and customer activity.
+- Understand customer demographics and spending patterns.
+- Identify the best-performing product categories.
+- Compare sales performance across seasons and locations.
 - Explore payment preferences and shipping behavior.
-- Develop data-informed business recommendations.
+- Recommend practical actions based on the findings.
 
 ## Dashboard Preview
 
@@ -25,10 +27,10 @@ The objective is to transform sales data into meaningful insights and practical 
 
 ![Customer Sales Dashboard - View 2](Customer-Sales-2.png)
 
-## Tools and Technologies
+## Tools Used
 
-- **Power BI:** Dashboard development, data visualization, and business analysis.
-- **Microsoft Excel:** Data cleaning and preparation.
+- **Power BI:** Built the dashboards and explored sales and customer trends.
+- **Microsoft Excel:** Cleaned and prepared the data for analysis.
 
 ## Key Performance Indicators
 
@@ -42,83 +44,62 @@ The objective is to transform sales data into meaningful insights and practical 
 
 ## Key Findings
 
-### 1. Revenue and Customer Activity
+### 1. Overall Sales Performance
 
-The analysis recorded $233K in total revenue across 4K customers, with an average purchase value of $59.76. These metrics provide an overview of sales performance and customer spending.
+The analysis recorded **$233K in revenue across 4K customers**, with an average purchase value of $59.76.
 
-### 2. Product Category Performance
+These figures provide a snapshot of the business's sales performance and customer spending during the period covered by the dataset.
 
-Clothing ranked as the top-performing category compared with Accessories, Footwear, and Outerwear. Further product-level analysis could help identify the items contributing most to category performance.
+### 2. Clothing Was the Leading Product Category
 
-### 3. Customer Demographics
+Clothing performed better than Accessories, Footwear, and Outerwear in the category comparison.
 
-Female customers accounted for 68% of the customer base, while male customers accounted for 32%. Additional analysis of revenue and average purchase value by gender would help determine each group's contribution to sales.
+This makes clothing an important area to monitor when reviewing product demand and planning promotions. Looking more closely at individual products could also reveal which items contributed most to category sales.
 
-### 4. Seasonal Sales Trends
+### 3. Female Customers Made Up the Larger Share
 
-Fall recorded the highest revenue, while Summer recorded the lowest. These differences may help inform promotional planning and inventory decisions.
+Female customers represented 68% of the customer base, compared with 32% for male customers.
 
-### 5. Customer Spending Segments
+This shows how the customer base was distributed in the dataset. Comparing revenue and average purchase value across both groups would provide a clearer picture of their respective contributions to sales.
 
-High spenders contributed the largest share of revenue among the customer spending segments analyzed. Understanding their purchasing patterns may help inform customer retention and loyalty strategies.
+### 4. Sales Varied by Season
 
-### 6. Generational Spending Patterns
+Fall recorded the highest revenue, while Summer recorded the lowest.
 
-Gen Z customers recorded an average spending value of $60.20. This metric provides a basis for comparing spending behavior across customer generations.
+This pattern could help inform seasonal promotions and inventory planning. Reviewing monthly sales and product demand would help determine whether the difference was consistent across the period analyzed.
 
-### 7. Payment Method Preferences
+### 5. High-Spending Customers Contributed the Most Revenue
 
-The analysis showed that 84.18% of customers used their preferred payment methods, while 15.82% used alternative methods. These findings may help the business evaluate customer payment preferences and the convenience of its purchasing process.
+High spenders accounted for the largest share of revenue among the customer spending segments analyzed.
 
-### 8. Shipping Method and Spending
+Understanding what these customers purchase and how frequently they buy could help the business explore more relevant loyalty offers and customer retention strategies.
 
-Customers using 2-Day and Express shipping recorded higher spending than customers using Standard shipping. Further analysis would be required to determine whether shipping preferences are associated with specific customer segments or purchase values.
+### 6. Gen Z Recorded an Average Spending Value of $60.20
 
-### 9. Geographic Purchasing Activity
+Gen Z customers had an average spending value of $60.20 in the analysis.
 
-Montana, California, and Idaho recorded some of the highest purchasing activity in the analysis. Comparing customer counts, revenue, and average spending across states could help identify potential regional opportunities.
+This provides a starting point for comparing spending patterns across generations and understanding whether different customer groups may respond to different marketing approaches.
+
+### 7. Most Customers Used Their Preferred Payment Methods
+
+The analysis showed that 84.18% of customers used their preferred payment methods, while 15.82% used alternative methods.
+
+These figures provide a view of payment preferences within the dataset. Further analysis could help determine whether payment choices are associated with differences in purchase value or customer experience.
+
+### 8. Shipping Methods Showed Differences in Customer Spending
+
+Customers using 2-Day and Express shipping recorded higher spending than those using Standard shipping.
+
+This is a useful pattern to investigate, but it does not necessarily mean faster shipping leads to higher spending. Comparing order values, customer segments, and delivery costs could help explain the difference.
+
+### 9. Purchasing Activity Varied Across States
+
+Montana, California, and Idaho recorded some of the highest purchasing activity in the analysis.
+
+Comparing total revenue, customer counts, and average purchase value across states would help determine where the business has stronger sales activity and where further market analysis may be worthwhile.
 
 ## Business Recommendations
 
-Based on the observed patterns, the following actions could be investigated:
+Based on the patterns identified, I would recommend investigating the following opportunities:
 
-1. **Category optimization:** Examine clothing sales and individual product performance to identify opportunities for targeted promotions.
-2. **Customer segmentation:** Use purchasing behavior and demographic data to develop more relevant marketing campaigns.
-3. **Customer retention:** Explore loyalty programs and personalized offers for high-spending customers.
-4. **Seasonal planning:** Use historical sales patterns to inform promotional calendars and inventory planning.
-5. **Shipping evaluation:** Assess customer preferences, delivery costs, and the commercial benefits of different shipping options.
-6. **Regional marketing:** Compare sales performance across states before allocating additional marketing resources.
-7. **Payment experience:** Review payment preferences to identify opportunities to improve checkout convenience.
-
-## Analytical Approach
-
-The project involved preparing data, examining key performance indicators, comparing customer segments, exploring purchasing patterns, and presenting the results through Power BI dashboards. The findings were then translated into business recommendations for further investigation.
-
-## Skills Demonstrated
-
-- Data preparation and analysis
-- Power BI dashboard development
-- Business intelligence and data visualization
-- Customer segmentation and behavioral analysis
-- KPI analysis and performance reporting
-- Business insight generation
-- Data-driven recommendations
-
-## Limitations
-
-The findings reflect patterns observed in the available dataset and do not establish causal relationships. The proposed recommendations should be validated through further analysis and, where appropriate, business testing.
-
-## About
-
-I am an Economics undergraduate at the University of Port Harcourt with an interest in Data Analytics, Business Intelligence, and Business Analytics. I focus on using data to understand business problems, identify meaningful patterns, and communicate insights that support informed decision-making.
-
-**Tools and skills:** Power BI | Excel | SQL | BigQuery
-
-**GitHub:** https://github.com/dbusiness-analytics
-
-**LinkedIn:** https://www.linkedin.com/in/daniel-basil-60aa43363/
-
----
-
-*This project demonstrates the application of data analysis and visualization to customer behavior and sales performance, with an emphasis on practical business insights.*
-
+1. **Review clothing performance:** Examine individual product
