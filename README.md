@@ -102,4 +102,53 @@ Comparing total revenue, customer counts, and average purchase value across stat
 
 Based on the patterns identified, I would recommend investigating the following opportunities:
 
-1. **Review clothing performance:** Examine individual product
+1. **Review clothing performance:** Examine individual product sales to identify popular items and potential promotional opportunities.
+2. **Improve customer segmentation:** Use purchasing patterns and customer demographics to develop more relevant marketing campaigns.
+3. **Explore customer retention:** Investigate loyalty offers for high-spending customers and measure their effectiveness.
+4. **Plan for seasonal demand:** Use historical sales patterns to support inventory decisions and promotional planning.
+5. **Evaluate shipping options:** Compare delivery costs, order values, and customer preferences before making changes to shipping services.
+6. **Investigate regional performance:** Compare revenue and customer activity across states before committing additional marketing resources.
+7. **Review payment preferences:** Use the findings to assess whether the available payment options meet customer needs.
+
+These are potential actions based on the analysis, rather than outcomes already tested by the business.
+
+## Analytical Approach
+
+I prepared the data in Excel and used Power BI to explore the main performance indicators and customer behavior patterns.
+
+The analysis focused on revenue, product categories, customer segments, seasonal trends, payment preferences, shipping methods, and geographic activity. I then used the dashboard findings to identify business questions and develop recommendations for further investigation.
+
+The main focus was not just presenting the numbers, but understanding what they could tell us about customer behavior and sales performance.
+
+## Skills Demonstrated
+
+- Data cleaning and preparation
+- Power BI dashboard development
+- Sales performance and KPI analysis
+- Customer behavior and segmentation
+- Product category analysis
+- Seasonal and geographic trend analysis
+- Business intelligence and data visualization
+- Communicating findings and recommendations
+
+## Limitations
+
+The findings reflect the data available in the dataset and should be interpreted within that context. The analysis identifies patterns and differences but does not establish what caused them.
+
+Additional analysis would be needed to validate the recommendations, particularly where decisions involve marketing expenditure, shipping costs, customer retention, or profitability.
+
+## About Me
+
+I am an Economics undergraduate at the University of Port Harcourt, interested in Data Analytics, Business Intelligence, and Business Analytics.
+
+I use tools such as Power BI and Excel to explore business data, identify meaningful patterns, and present findings in a way that supports informed decision-making.
+
+**Tools:** Power BI | Microsoft Excel
+
+**GitHub:** https://github.com/dbusiness-analytics
+
+**LinkedIn:** https://www.linkedin.com/in/daniel-basil-60aa43363/
+
+---
+
+*This project demonstrates how customer and sales data can be used to identify purchasing patterns, assess business performance, and highlight opportunities for further analysis.*
